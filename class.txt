@@ -1,4 +1,4 @@
-Crimson
+Red
 Orange
 Green
 Cyan
@@ -10,4 +10,5 @@ Silver
 Fuchsia
 Gray
 Brown
-Red
+Crimson
+Blak 
